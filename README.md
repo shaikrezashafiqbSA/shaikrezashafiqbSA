@@ -1,16 +1,16 @@
-## Hi there 👋
+# Shaik Reza Shafiq
 
-<!--
-**shaikrezashafiqbSA/shaikrezashafiqbSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Program manager, Singapore. I scope the problem, run the delivery, lead the change around it, and measure whether the change held.
 
-Here are some ideas to get you started:
+## Delivery record
+- National Heritage Board: raised active officers from 30 to 95 (3x) and divisions from 8 to all 15 in a 12-month program.
+- EkkBaz AI: delivered 5 client engagements to POC or MVP stage, with a live deployment at the parent company within 1 month.
+- GIC: organised a 48-hour hackathon where about 8 of 10 researchers co-built a shared backtesting template.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+- [Nusantara Dua Tracking](https://shaikrezashafiqbsa.github.io/steps-of-muhammad/): open-source dua and dhikr companion app, with adoption run through hands-on facilitation.
+- [md-to-docx-resume](https://github.com/shaikrezashafiqbSA/md-to-docx-resume): web app that converts a markdown resume to Word.
+- [Travel-Itinerary-RAG](https://github.com/shaikrezashafiqbSA/Travel-Itinerary-RAG): retrieval from a database plus prompt-engineered itinerary generation.
+
+## Links
+[linkedin](https://www.linkedin.com/in/shaikrezashafiq/) | [portfolio](https://shaikrezashafiqbsa.github.io/about/)
