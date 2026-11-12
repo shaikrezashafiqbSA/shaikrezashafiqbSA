@@ -8,8 +8,8 @@ Program manager, Singapore. I scope the problem, run the delivery, lead the chan
 - GIC: organised a 48-hour hackathon where about 8 of 10 researchers co-built a shared backtesting template.
 
 ## Selected projects
-- [Nusantara Dua Tracking](https://shaikrezashafiqbsa.github.io/steps-of-muhammad/): open-source dua and dhikr companion app, with adoption run through hands-on facilitation.
-- [md-to-docx-resume](https://github.com/shaikrezashafiqbSA/md-to-docx-resume): web app that converts a markdown resume to Word.
+- [Nusantara Dua Tracking](https://shaikrezashafiqbsa.github.io/steps-of-muhammad/): open-source dua and dhikr companion app, with adoption run through hands-on facilitation - 10+ Community Users and rising 
+- [md-to-docx-resume](https://github.com/shaikrezashafiqbSA/md-to-docx-resume): web app that converts a markdown resume to Word
 - [Travel-Itinerary-RAG](https://github.com/shaikrezashafiqbSA/Travel-Itinerary-RAG): retrieval from a database plus prompt-engineered itinerary generation.
 
 ## Links
